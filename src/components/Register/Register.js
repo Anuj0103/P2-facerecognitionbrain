@@ -86,8 +86,5 @@ class Register extends React.Component{
 </article>
 		);
 	}
-
-
-	
 }
 export default Register;
