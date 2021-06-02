@@ -20,7 +20,7 @@ const options={
       }
     },
     "color": {
-      "value": "#3CA9D1"
+      "value": "#ffffff"
     },
     "shape": {
       "type": "circle",
@@ -193,7 +193,7 @@ displayFaceBox=(box)=>{
   }
   onButtonSubmit=()=>{
     this.setState({imageurl:this.state.input});
-    fetch('http://localhost:3000/imageUrl',{
+    fetch('http://localhost:3000/imageurl',{
       method:'post',
       headers:{'Content-Type':'application/json'},
       body:JSON.stringify({
