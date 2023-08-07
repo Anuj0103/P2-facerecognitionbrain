@@ -1,6 +1,9 @@
 
 https://user-images.githubusercontent.com/56120984/120689287-a15eaa00-c4c1-11eb-9a63-b29f21204ab3.mp4
 
+![Screenshot 2023-08-07 134548](https://github.com/Anuj0103/P2-facerecognitionbrain/assets/56120984/20d1d7d3-7d5c-49fa-a531-97d196608cf0)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
